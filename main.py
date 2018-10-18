@@ -1,6 +1,6 @@
 #Implementation of softmax_cross_entropy_with_logits()
 import numpy as np 
-a = [0,1,0,0,0,0]
+#Logits as last layer outputs
 logits = [0.1,0.4,0.2,0.3,0.001,0.2]
 sum=0
 for i in range(len(a)):
