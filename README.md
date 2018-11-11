@@ -4,4 +4,7 @@ This is the implementation of tf.nn.softmax_cross_entropy_with_logits, a functio
 ### Official Documentation for tf.nn.softmax_cross_entropy_with_logits of tensorflow.
 https://www.tensorflow.org/api_docs/python/tf/nn/softmax_cross_entropy_with_logits
 ## Softmax Function
-The softmax function, or normalised exponential function is a generalisation of logistic function that "squashes" a K-dimensional vector {\displaystyle \mathbf {z} } \mathbf {z}  of arbitrary real values to a K-dimensional vector {\displaystyle \sigma (\mathbf {z} )} \sigma (\mathbf {z} ) of real values, where each entry is in the range (0, 1), and all the entries add up to 1.
+The softmax function, or normalised exponential function is a generalisation of logistic function that "squashes" a K-dimensional vector z of arbitrary real values to a K-dimensional vector of real values, where each entry is in the range (0, 1), and all the entries add up to 1.
+![alt Softmax Function](https://github.com/kbhartiya83/Tensorflow-Softmax_cross_entropy_with_logits/blob/master/1_vz9WitVXiK3KM28n9JgTgw%402x.png)
+In probability theory, the output of the softmax function can be used to represent a categorical distribution – that is, a probability distribution over K different possible outcomes.
+
